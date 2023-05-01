@@ -14,7 +14,7 @@
     d. Date of publication
     e. Description of the article
     f. Link to "Read more" to go to the article page
-    If no picture is returned from the API, a placeholder should be displayed instead.
+    If no picture is returned from the API, a placeholder is being displayed instead.
     
 ![snap1](https://user-images.githubusercontent.com/72519578/235508942-c4f24e85-f3aa-4094-b1f6-f34e3f974fb4.jpg)
 
@@ -47,6 +47,7 @@
 
 ![snap6](https://user-images.githubusercontent.com/72519578/235509900-7fca56a0-ef8e-4f3b-b90b-a291a3c81788.jpg)
 
+### 9. It has Pre-comit hook with ESlint staging. Every time you make a commit it runs linter and checks that everything is ok. If not commit gets blocked untill all errors that appeared in console are fixed. 
 
 # Getting Started with Create React App
 
